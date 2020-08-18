@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "baryl",
+    "MONGO_PASSWORD": "2010tima",
+    "MONGO_DB": "event-react"
+  }
+}
